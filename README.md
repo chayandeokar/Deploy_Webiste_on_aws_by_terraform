@@ -1,5 +1,6 @@
 # Deploy_Website_on_aws_by_terraform
-We will deploy a website to AWS using the terraform script in this Repository
+
+Commands to run scripts
 
 # terraform init
 # terraform plan
